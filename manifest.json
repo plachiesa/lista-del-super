@@ -1,0 +1,18 @@
+```json
+{
+  "name": "Lista del Super",
+  "short_name": "Lista del Super",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f9f7f2",
+  "theme_color": "#121212",
+  "icons": [
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
+```
